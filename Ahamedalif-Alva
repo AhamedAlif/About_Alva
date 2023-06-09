@@ -22,7 +22,7 @@
   </head>
   <body>
     <pre>
-      axosolaman@localhost:~$ <span id="command-input">cat AhamedAlif(Alva).txt </span>
+      AhamedAlif@localhost:~$ <span id="command-input">cat AhamedAlif(Alva).txt </span>
     </pre>
     <pre class="terminal-output">
       Name: AhamedAlif(Alva)
