@@ -1,4 +1,3 @@
-Certainly! Here's an updated version of the provided content with the requested changes:
 
 ---
 # Alva Alif
@@ -50,7 +49,7 @@ Through hard work and dedication, I transformed my passion into a successful car
 ## Contact Me
 
 Feel free to reach out to me if you have any inquiries or opportunities for collaboration.
-You can connect with me through [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or [Twitter](https://twitter.com/your-twitter-profile).
+You can connect with me through [LinkedIn]() or [Twitter]().
 
 Alva Alif
 I am Alva Alif from Bangladesh, a cybersecurity analyst, a beginner bug bounty hunter, a junior red team operator, a beginner blue team operator, and a content creator. I am a great learner, passionate about cybersecurity and learning, and I love teaching. I am focused on my studies and career for a bright future. I always strive to give my best in every work.
