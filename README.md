@@ -10,7 +10,7 @@ I always strive to give my best in every work.
 
 ## Introduction
 
-Hello, my name is Alif Hossain Sefat, also known as Alva Alif, from Bangladesh.
+Hello, my name is Ahamed Alif, also known as Alva Alif, from Bangladesh.
 I am a cybersecurity researcher, with a strong passion for learning and teaching.
 In addition to my role as an ethical hacker and Python programmer, I also have experience in red team operations, blue team operations, network security, radio frequency hacking, OSINT, and I am a content creator with a YouTube channel called Alva Security.
 I am dedicated to advancing my studies and career in the field of cybersecurity, with a focus on achieving a bright future in this exciting and rapidly evolving field.
